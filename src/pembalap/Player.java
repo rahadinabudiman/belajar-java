@@ -1,4 +1,4 @@
-package mood;
+package pembalap;
 
 public class Player {
      // Definisi class Player
