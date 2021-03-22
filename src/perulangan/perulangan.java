@@ -11,7 +11,7 @@ public class perulangan {
             for ( z = 1; z <= (x * 1); z++) {
                 System.out.print(z % 10 + " ");
             }
-           System.out.println();
+            System.out.println();
         }
     }
 }
